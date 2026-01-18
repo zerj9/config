@@ -1,0 +1,3 @@
+# Config
+
+Location: ~/.config/
